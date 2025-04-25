@@ -26,6 +26,16 @@ const Quiz: React.FC = () => {
       question: 'Which planet is known as the Red Planet?',
       options: ['Earth', 'Mars', 'Jupiter', 'Venus'],
       correctAnswer: 'Mars'
+    },
+    {
+      question: 'Which planet is known as the Red Planet?',
+      options: ['Earth', 'Mars', 'Jupiter', 'Venus'],
+      correctAnswer: 'Mars'
+    },
+    {
+      question: 'Which planet is known as the Red Planet?',
+      options: ['Earth', 'Mars', 'Jupiter', 'Venus'],
+      correctAnswer: 'Mars'
     }
   ]
 
